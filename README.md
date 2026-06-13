@@ -1,6 +1,6 @@
 # IGNITE - Week 1 Python Projects
 
-[![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://www.python.org/)
+[![Python Version](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
 Welcome to the IGNITE Week 1 repository containing simple interactive Python scripts.
 
